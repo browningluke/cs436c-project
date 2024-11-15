@@ -1,0 +1,101 @@
+﻿UserId,YearMonth,transactions.id,transactions.date,transactions.vendor,transactions.category,transactions.amount,transactions.currency,transactions.recurring,transactions.type,transactions.location,transactions.description
+1,202410,123376,2024-10-31,Gas Station,Transportation,40,USD,FALSE,purchase,US-CA,Gas Station Transportation purchase
+1,202410,123375,2024-10-30,Spotify,Entertainment,9.99,USD,TRUE,purchase,CA-BC,Spotify Premium subscription
+1,202410,123374,2024-10-29,Netflix,Entertainment,13.99,USD,TRUE,purchase,US-CA,Netflix Subscription
+1,202410,123372,2024-10-25,Spotify,Entertainment,9.99,USD,TRUE,purchase,US-NY,Spotify Premium subscription
+1,202410,123373,2024-10-25,Netflix,Entertainment,13.99,USD,TRUE,purchase,GB-LND,Netflix Subscription
+1,202410,123371,2024-10-24,Walmart,Groceries,180,USD,FALSE,purchase,US-NY,Walmart Groceries purchase
+1,202410,123370,2024-10-21,Netflix,Entertainment,13.99,USD,TRUE,purchase,CA-BC,Netflix Subscription
+1,202410,123369,2024-10-20,Walmart,Groceries,170,USD,FALSE,purchase,US-CA,Walmart Groceries purchase
+1,202410,123368,2024-10-19,Delta Airlines,Travel,130,USD,FALSE,purchase,CA-BC,Delta Airlines Travel purchase
+1,202410,123367,2024-10-16,Walmart,Groceries,160,USD,FALSE,purchase,GB-LND,Walmart Groceries purchase
+1,202410,123366,2024-10-15,Delta Airlines,Travel,120,USD,FALSE,purchase,US-NY,Delta Airlines Travel purchase
+1,202410,123365,2024-10-14,Starbucks,Food & Beverages,80,USD,FALSE,purchase,GB-LND,Starbucks Food & Beverages purchase
+1,202410,123364,2024-10-11,Delta Airlines,Travel,110,USD,FALSE,purchase,US-CA,Delta Airlines Travel purchase
+1,202410,123363,2024-10-10,Starbucks,Food & Beverages,70,USD,FALSE,purchase,CA-BC,Starbucks Food & Beverages purchase
+1,202410,123362,2024-10-09,Amazon,Shopping,30,USD,FALSE,purchase,US-CA,Amazon Shopping purchase
+1,202410,123361,2024-10-06,Starbucks,Food & Beverages,60,USD,FALSE,purchase,US-NY,Starbucks Food & Beverages purchase
+1,202410,123360,2024-10-05,Amazon,Shopping,20,USD,FALSE,purchase,GB-LND,Amazon Shopping purchase
+1,202410,123359,2024-10-04,Gas Station,Transportation,40,USD,FALSE,purchase,US-NY,Gas Station Transportation purchase
+1,202410,123358,2024-10-03,Spotify,Entertainment,9.99,USD,TRUE,purchase,GB-LND,Spotify Premium subscription
+1,202410,123357,2024-10-01,Amazon,Shopping,10,USD,FALSE,purchase,CA-BC,Amazon Shopping purchase
+1,202409,123396,2024-09-30,Starbucks,Food & Beverages,8,USD,FALSE,purchase,GB-LND,Starbucks coffee purchase
+1,202409,123395,2024-09-28,Gym Membership,Health & Wellness,50,USD,TRUE,subscription,US-CA,Monthly gym membership fee
+1,202409,123394,2024-09-26,Electric Company,Utilities,90,USD,TRUE,bill_payment,US-NY,Monthly electric bill
+1,202409,123393,2024-09-24,Apple Store,Electronics,999,USD,FALSE,purchase,CA-BC,New iPhone purchase
+1,202409,123392,2024-09-22,Amazon,Shopping,30,USD,FALSE,refund,GB-LND,Amazon item refund
+1,202409,123391,2024-09-20,Uber,Transportation,20,USD,FALSE,purchase,CA-BC,Uber ride
+1,202409,123390,2024-09-19,Electric Company,Utilities,95,USD,TRUE,bill_payment,US-CA,Monthly electric bill
+1,202409,123389,2024-09-18,Delta Airlines,Travel,250,USD,FALSE,purchase,US-CA,Flight ticket purchase
+1,202409,123388,2024-09-17,Netflix,Entertainment,13.99,USD,TRUE,subscription,GB-LND,Netflix monthly subscription
+1,202409,123387,2024-09-15,Gas Station,Transportation,35,USD,FALSE,purchase,US-CA,Fuel refill
+1,202409,123386,2024-09-14,Uber,Transportation,22,USD,FALSE,purchase,US-NY,Uber ride
+1,202409,123385,2024-09-13,Spotify,Entertainment,9.99,USD,TRUE,subscription,US-NY,Spotify Premium subscription
+1,202409,123384,2024-09-11,Delta Airlines,Travel,300,USD,FALSE,purchase,US-CA,Flight ticket purchase
+1,202409,123383,2024-09-10,Walmart,Groceries,75,USD,FALSE,purchase,GB-LND,Walmart Groceries purchase
+1,202409,123382,2024-09-08,Walmart,Groceries,68,USD,FALSE,purchase,CA-BC,Walmart Groceries purchase
+1,202409,123381,2024-09-07,Netflix,Entertainment,13.99,USD,TRUE,subscription,CA-BC,Netflix monthly subscription
+1,202409,123380,2024-09-05,Spotify,Entertainment,9.99,USD,TRUE,subscription,US-NY,Spotify Premium subscription
+1,202409,123379,2024-09-04,Starbucks,Food & Beverages,12,USD,FALSE,purchase,US-NY,Starbucks coffee purchase
+1,202409,123378,2024-09-02,Amazon,Shopping,20,USD,FALSE,purchase,CA-BC,Amazon Shopping purchase
+1,202409,123377,2024-09-01,Amazon,Shopping,45,USD,FALSE,purchase,CA-BC,Amazon Shopping purchase
+1,202408,123416,2024-08-30,Starbucks,Food & Beverages,9,USD,FALSE,purchase,GB-LND,Starbucks coffee purchase
+1,202408,123415,2024-08-28,Gym Membership,Health & Wellness,55,USD,TRUE,subscription,US-CA,Monthly gym membership fee
+1,202408,123414,2024-08-26,Electric Company,Utilities,95,USD,TRUE,bill_payment,GB-LND,Monthly electric bill
+1,202408,123413,2024-08-24,Starbucks,Food & Beverages,12.5,USD,FALSE,purchase,US-NY,Starbucks coffee purchase
+1,202408,123412,2024-08-22,Apple Store,Electronics,999,USD,FALSE,purchase,CA-BC,New iPhone purchase
+1,202408,123411,2024-08-20,Uber,Transportation,23,USD,FALSE,purchase,CA-BC,Uber ride
+1,202408,123410,2024-08-19,Electric Company,Utilities,90,USD,TRUE,bill_payment,US-CA,Monthly electric bill
+1,202408,123409,2024-08-18,Delta Airlines,Travel,260,USD,FALSE,purchase,US-CA,Flight ticket purchase
+1,202408,123408,2024-08-17,Netflix,Entertainment,13.99,USD,TRUE,subscription,GB-LND,Netflix monthly subscription
+1,202408,123407,2024-08-15,Gas Station,Transportation,34,USD,FALSE,purchase,US-CA,Fuel refill
+1,202408,123406,2024-08-14,Uber,Transportation,20,USD,FALSE,purchase,US-NY,Uber ride
+1,202408,123405,2024-08-13,Spotify,Entertainment,9.99,USD,TRUE,subscription,US-NY,Spotify Premium subscription
+1,202408,123404,2024-08-11,Delta Airlines,Travel,315,USD,FALSE,purchase,US-CA,Flight ticket purchase
+1,202408,123403,2024-08-10,Walmart,Groceries,78,USD,FALSE,purchase,GB-LND,Walmart Groceries purchase
+1,202408,123402,2024-08-08,Walmart,Groceries,68,USD,FALSE,purchase,CA-BC,Walmart Groceries purchase
+1,202408,123401,2024-08-07,Netflix,Entertainment,13.99,USD,TRUE,subscription,CA-BC,Netflix monthly subscription
+1,202408,123400,2024-08-05,Spotify,Entertainment,9.99,USD,TRUE,subscription,US-NY,Spotify Premium subscription
+1,202408,123399,2024-08-04,Starbucks,Food & Beverages,10.5,USD,FALSE,purchase,US-NY,Starbucks coffee purchase
+1,202408,123398,2024-08-02,Amazon,Shopping,20,USD,FALSE,purchase,CA-BC,Amazon Shopping purchase
+1,202408,123397,2024-08-01,Amazon,Shopping,45,USD,FALSE,purchase,CA-BC,Amazon Shopping purchase
+1,202407,123436,2024-07-31,Starbucks,Food & Beverages,7.5,USD,FALSE,purchase,GB-LND,Starbucks coffee purchase
+1,202407,123435,2024-07-28,Gym Membership,Health & Wellness,52,USD,TRUE,subscription,US-CA,Monthly gym membership fee
+1,202407,123434,2024-07-26,Electric Company,Utilities,85,USD,TRUE,bill_payment,US-NY,Monthly electric bill
+1,202407,123433,2024-07-24,Apple Store,Electronics,1020,USD,FALSE,purchase,CA-BC,New iPhone purchase
+1,202407,123432,2024-07-23,Amazon,Shopping,28,USD,FALSE,refund,GB-LND,Amazon item refund
+1,202407,123431,2024-07-21,Uber,Transportation,25,USD,FALSE,purchase,CA-BC,Uber ride
+1,202407,123430,2024-07-19,Electric Company,Utilities,92,USD,TRUE,bill_payment,US-CA,Monthly electric bill
+1,202407,123429,2024-07-18,Delta Airlines,Travel,290,USD,FALSE,purchase,US-CA,Flight ticket purchase
+1,202407,123428,2024-07-17,Netflix,Entertainment,13.99,USD,TRUE,subscription,GB-LND,Netflix monthly subscription
+1,202407,123427,2024-07-15,Gas Station,Transportation,32,USD,FALSE,purchase,US-CA,Fuel refill
+1,202407,123425,2024-07-13,Spotify,Entertainment,9.99,USD,TRUE,subscription,US-NY,Spotify Premium subscription
+1,202407,123426,2024-07-13,Uber,Transportation,22.5,USD,FALSE,purchase,US-NY,Uber ride
+1,202407,123424,2024-07-11,Delta Airlines,Travel,310,USD,FALSE,purchase,US-CA,Flight ticket purchase
+1,202407,123423,2024-07-10,Walmart,Groceries,65,USD,FALSE,purchase,GB-LND,Walmart Groceries purchase
+1,202407,123422,2024-07-08,Walmart,Groceries,55,USD,FALSE,purchase,CA-BC,Walmart Groceries purchase
+1,202407,123421,2024-07-07,Netflix,Entertainment,13.99,USD,TRUE,subscription,CA-BC,Netflix monthly subscription
+1,202407,123420,2024-07-05,Spotify,Entertainment,9.99,USD,TRUE,subscription,US-NY,Spotify Premium subscription
+1,202407,123419,2024-07-04,Starbucks,Food & Beverages,14,USD,FALSE,purchase,US-NY,Starbucks coffee purchase
+1,202407,123418,2024-07-02,Amazon,Shopping,25,USD,FALSE,purchase,CA-BC,Amazon Shopping purchase
+1,202407,123417,2024-07-01,Amazon,Shopping,50,USD,FALSE,purchase,CA-BC,Amazon Shopping purchase
+1,202406,123449,2024-06-30,Starbucks,Food & Beverages,9.5,USD,FALSE,purchase,US-NY,Starbucks coffee purchase
+1,202406,123448,2024-06-29,Target,Shopping,60,USD,FALSE,purchase,GB-LND,Target Shopping purchase
+1,202406,123447,2024-06-28,Gym Membership,Health & Wellness,55,USD,TRUE,subscription,US-CA,Monthly gym membership fee
+1,202406,123456,2024-06-27,Electric Company,Utilities,90,USD,TRUE,bill_payment,US-CA,Monthly electric bill
+1,202406,123446,2024-06-26,Electric Company,Utilities,100,USD,TRUE,bill_payment,GB-LND,Monthly electric bill
+1,202406,123455,2024-06-24,Netflix,Entertainment,13.99,USD,TRUE,subscription,GB-LND,Netflix monthly subscription
+1,202406,123445,2024-06-23,Apple Store,Electronics,1050,USD,FALSE,purchase,CA-BC,New iPad purchase
+1,202406,123444,2024-06-21,Uber,Transportation,22.5,USD,FALSE,purchase,CA-BC,Uber ride
+1,202406,123443,2024-06-18,Delta Airlines,Travel,275,USD,FALSE,purchase,US-CA,Flight ticket purchase
+1,202406,123454,2024-06-17,Uber,Transportation,19,USD,FALSE,purchase,US-NY,Uber ride
+1,202406,123442,2024-06-16,Gas Station,Transportation,40,USD,FALSE,purchase,US-CA,Fuel refill
+1,202406,123441,2024-06-15,Spotify,Entertainment,9.99,USD,TRUE,subscription,US-NY,Spotify Premium subscription
+1,202406,123453,2024-06-12,Delta Airlines,Travel,290,USD,FALSE,purchase,US-CA,Flight ticket purchase
+1,202406,123440,2024-06-11,Walmart,Groceries,82,USD,FALSE,purchase,GB-LND,Walmart Groceries purchase
+1,202406,123452,2024-06-09,Walmart,Groceries,78,USD,FALSE,purchase,CA-BC,Walmart Groceries purchase
+1,202406,123439,2024-06-08,Netflix,Entertainment,13.99,USD,TRUE,subscription,CA-BC,Netflix monthly subscription
+1,202406,123451,2024-06-07,Spotify,Entertainment,9.99,USD,TRUE,subscription,US-NY,Spotify Premium subscription
+1,202406,123438,2024-06-05,Starbucks,Food & Beverages,12,USD,FALSE,purchase,US-NY,Starbucks coffee purchase
+1,202406,123450,2024-06-03,Netflix,Entertainment,13.99,USD,TRUE,subscription,CA-BC,Netflix monthly subscription
+1,202406,123437,2024-06-02,Amazon,Shopping,55,USD,FALSE,purchase,CA-BC,Amazon Shopping purchase
