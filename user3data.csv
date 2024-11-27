@@ -1,0 +1,380 @@
+UserId,YearMonth,transactions.id,transactions.date,transactions.vendor,transactions.category,transactions.amount,transactions.currency,transactions.recurring,transactions.type,transactions.location,transactions.description
+3,202405,223390,2024-05-14,EVO,Transportation,17.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202405,223383,2024-05-16,EVO,Transportation,20.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202405,223392,2024-05-17,Good Co,Food & Beverages,73.0,CAD,False,purchase,CA-BC,TST-GOOD CO. GRANVILLE
+3,202405,223385,2024-05-18,DISNEY,Entertainment,16.0,CAD,True,subscription,CA-BC,DISNEY PLUS RECURRING
+3,202405,223387,2024-05-18,NANAS,Food & Beverages,14.0,CAD,False,purchase,CA-BC,NANAS GREEN TEA
+3,202405,223384,2024-05-18,VADAPAV,Food & Beverages,161.0,CAD,False,purchase,CA-BC,VADAPAV MIRHCHI BY GETT
+3,202405,223388,2024-05-18,PAYMENT,Miscellaneous,-3188.0,CAD,False,bill_payment,CA-BC,PAYMENT RECEIVED - THANK
+3,202405,223386,2024-05-23,BURRATA,Food & Beverages,4.0,CAD,False,purchase,CA-BC,BURRATA PIZZERIA 410732
+3,202406,223460,2024-05-24,COMPASS,Travel,8.0,CAD,True,purchase,CA-BC,COMPASS WEB
+3,202405,223389,2024-05-24,EVO,Transportation,13.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223467,2024-05-25,EVO,Transportation,22.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223459,2024-05-26,APPLE.COM/BILL,Utilities,2.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202405,223381,2024-05-27,CHAN,Entertainment,16.0,CAD,False,purchase,CA-BC,CHAN CENTRE FOR THE PER
+3,202405,223382,2024-05-27,EVO,Transportation,24.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223464,2024-05-27,HOTEL,Travel,-183.0,CAD,False,refund,CA-BC,HOTEL ON BOOKING.COM
+3,202406,223466,2024-05-28,CINEPLEX,Entertainment,51.0,CAD,True,purchase,CA-BC,CINEPLEX ENTERTAINME
+3,202406,223461,2024-05-29,MINH,Food & Beverages,11.0,CAD,True,purchase,CA-BC,MINH SANDWICHES 001
+3,202405,223391,2024-05-29,Dosa Factory,Food & Beverages,17.0,CAD,False,purchase,CA-BC,DOSA FACTORY RESTAURANT
+3,202405,223380,2024-05-29,DOORDASHSAHELRESTAU,Food & Beverages,24.0,CAD,False,purchase,CA-BC,DOORDASHSAHELRESTAU DOWNTOWN
+3,202406,223465,2024-05-30,HOTEL,Travel,188.0,CAD,False,purchase,CA-BC,HOTEL ON BOOKING.COM
+3,202406,223457,2024-05-31,EVO,Transportation,12.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223453,2024-06-01,EVO,Transportation,118.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223463,2024-06-01,EARLS,Food & Beverages,13.0,CAD,False,purchase,CA-BC,EARLS TEST KITCHEN
+3,202406,123452,2024-06-02,Walmart,Groceries,77.0,USD,False,purchase,CA-BC,Walmart Groceries purchase
+3,202406,223446,2024-06-03,APPLE.COM/BILL,Utilities,36.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202405,223378,2024-06-03,Cafe,Food & Beverages,28.0,CAD,False,purchase,CA-BC,THE NEW AMSTERDAM 40007
+3,202406,223444,2024-06-04,AMZN,Shopping,38.0,CAD,False,purchase,CA-BC,AMZN MKTP CA*TG97Y75R3
+3,202405,223379,2024-06-05,AMAZON.CA,Shopping,8.0,CAD,True,purchase,CA-BC,AMAZON.CA PRIME MEMBER
+3,202406,223458,2024-06-05,KINTON,Food & Beverages,79.0,CAD,False,purchase,CA-BC,KINTON RAMEN UBC 001
+3,202405,223376,2024-06-06,KINTON,Food & Beverages,20.0,CAD,False,purchase,CA-BC,KINTON RAMEN KGH 001
+3,202406,123439,2024-06-06,Netflix,Entertainment,15.0,USD,True,subscription,CA-BC,Netflix monthly subscription
+3,202406,223440,2024-06-06,RAMEN,Food & Beverages,34.0,CAD,False,purchase,CA-BC,RAMEN DANBO KITSILANO 0
+3,202406,123437,2024-06-07,Amazon,Shopping,54.0,USD,False,purchase,CA-BC,Amazon Shopping purchase
+3,202406,123453,2024-06-07,Delta Airlines,Travel,313.0,USD,False,purchase,US-CA,Flight ticket purchase
+3,202406,223462,2024-06-07,DOORDASHSHOPPERSDRU,Food & Beverages,30.0,CAD,False,purchase,CA-BC,DOORDASHSHOPPERSDRU DOWNTOWN
+3,202406,223456,2024-06-07,EVO,Transportation,10.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202405,223377,2024-06-08,MINH,Food & Beverages,10.0,CAD,True,purchase,CA-BC,MINH SANDWICHES 001
+3,202406,223436,2024-06-08,CINEPLEX,Entertainment,12.0,CAD,True,purchase,CA-BC,CINEPLEX #1147
+3,202406,123450,2024-06-08,Netflix,Entertainment,14.0,USD,True,subscription,CA-BC,Netflix monthly subscription
+3,202406,223448,2024-06-08,VALHALLA,Shopping,265.0,CAD,False,purchase,CA-BC,VALHALLA PURE OUTFITTER
+3,202406,223452,2024-06-08,BC,Food & Beverages,4.0,CAD,False,purchase,CA-BC,BC LIQUOR #090 VANCOUVE
+3,202406,223441,2024-06-08,CINEPLEX,Entertainment,12.0,CAD,True,purchase,CA-BC,CINEPLEX CINECLUB
+3,202406,223454,2024-06-09,SPORTS,Food & Beverages,30.0,CAD,False,purchase,CA-BC,SPORTS ILLUSTRATED CLU
+3,202406,123438,2024-06-09,Starbucks,Food & Beverages,13.0,USD,False,purchase,US-NY,Starbucks coffee purchase
+3,202406,223445,2024-06-09,CLASSPASS*,Health & Wellness,-85.0,CAD,False,refund,CA-BC,CLASSPASS* MONTHLY
+3,202406,223450,2024-06-10,NUKID,Food & Beverages,13.0,CAD,False,purchase,CA-BC,NUKID BAKERY CAFE 001
+3,202406,123451,2024-06-11,Spotify,Entertainment,11.0,USD,True,subscription,US-NY,Spotify Premium subscription
+3,202406,223447,2024-06-11,CINEPLEX,Entertainment,5.0,CAD,True,purchase,CA-BC,CINEPLEX ENTERTAINME
+3,202406,223422,2024-06-12,MINH,Miscellaneous,-5.0,CAD,True,refund,CA-BC,MINH
+3,202406,223426,2024-06-13,BODY,Miscellaneous,10.0,CAD,False,purchase,CA-BC,BODY ENERGY CLUB
+3,202406,223449,2024-06-13,CLASSPASS*,Health & Wellness,77.0,CAD,False,purchase,CA-BC,CLASSPASS* MONTHLY
+3,202406,223427,2024-06-13,MINH,Miscellaneous,11.0,CAD,True,purchase,CA-BC,MINH SANDWICHES 001
+3,202406,223443,2024-06-13,AMZN,Shopping,27.0,CAD,False,purchase,CA-BC,AMZN MKTP CA*C31J23AB3
+3,202406,223423,2024-06-13,SAVE,Food & Beverages,22.0,CAD,False,purchase,CA-BC,SAVE ON FOODS #993
+3,202406,223435,2024-06-14,THE,Food & Beverages,13.0,CAD,False,purchase,CA-BC,THE CHOPPED LEAF CL058
+3,202406,223439,2024-06-14,PUREBREAD,Food & Beverages,7.0,CAD,False,purchase,CA-BC,PUREBREAD 4TH AVE VANCO
+3,202406,123442,2024-06-14,Gas Station,Transportation,42.0,USD,False,purchase,US-CA,Fuel refill
+3,202406,223455,2024-06-14,BEC,Food & Beverages,18.0,CAD,False,purchase,CA-BC,BODY ENERGY CLUB
+3,202406,223416,2024-06-14,CINEPLEX,Miscellaneous,25.0,CAD,True,purchase,CA-BC,CINEPLEX ENTERTAINME
+3,202406,223432,2024-06-15,MINH,Food & Beverages,12.0,CAD,True,purchase,CA-BC,MINH SANDWICHES 001
+3,202406,123443,2024-06-15,Delta Airlines,Travel,299.0,USD,False,purchase,US-CA,Flight ticket purchase
+3,202406,223418,2024-06-15,DISNEY,Entertainment,16.0,CAD,True,subscription,CA-BC,DISNEY PLUS RECURRING
+3,202406,223433,2024-06-15,FIDO,Shopping,52.0,CAD,True,purchase,CA-BC,FIDO MOBILE ******7459
+3,202406,223414,2024-06-16,CINEPLEX,Miscellaneous,18.0,CAD,True,purchase,CA-BC,CINEPLEX 1149
+3,202406,223434,2024-06-16,REVENUE,Health & Wellness,83.0,CAD,True,purchase,CA-BC,REVENUE SERVICES BC VIC
+3,202406,223451,2024-06-17,EVO,Transportation,8.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,123441,2024-06-17,Spotify,Entertainment,11.0,USD,True,subscription,US-NY,Spotify Premium subscription
+3,202406,223408,2024-06-18,CINEPLEX,Miscellaneous,49.0,CAD,True,purchase,CA-BC,CINEPLEX ENTERTAINME
+3,202406,123444,2024-06-19,Uber,Transportation,23.0,USD,False,purchase,CA-BC,Uber ride
+3,202406,223428,2024-06-19,MEMBERSHIP,Entertainment,13.0,CAD,True,subscription,CA-BC,MEMBERSHIP FEE
+3,202406,223442,2024-06-19,AMZN,Shopping,22.0,CAD,False,purchase,CA-BC,AMZN MKTP CA*DO86D3293
+3,202406,223412,2024-06-19,MAENAM,Miscellaneous,83.0,CAD,False,purchase,CA-BC,MAENAM
+3,202406,123440,2024-06-20,Walmart,Groceries,84.0,USD,False,purchase,GB-LND,Walmart Groceries purchase
+3,202406,223395,2024-06-20,BC,Miscellaneous,144.0,CAD,False,purchase,CA-BC,BC LIQUOR #192 VANCOUVE
+3,202406,223431,2024-06-20,INDIGO-,Travel,-72.0,CAD,False,refund,CA-BC,INDIGO- PG
+3,202406,223417,2024-06-20,SUBWAY,Miscellaneous,12.0,CAD,False,purchase,CA-BC,SUBWAY 70836
+3,202406,123454,2024-06-20,Uber,Transportation,18.0,USD,False,purchase,US-NY,Uber ride
+3,202406,223396,2024-06-20,EVO,Transportation,5.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223400,2024-06-20,GROUSE,Miscellaneous,7.0,CAD,False,purchase,CA-BC,GROUSE MOUNTAIN
+3,202406,223398,2024-06-21,EVO,Transportation,21.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223402,2024-06-21,R.A.V.E.N.,Miscellaneous,75.0,CAD,False,purchase,CA-BC,R.A.V.E.N.
+3,202406,223424,2024-06-21,SPORTS,Miscellaneous,31.0,CAD,False,purchase,CA-BC,SPORTS ILLUSTRATED CLU
+3,202406,223437,2024-06-21,EVO,Transportation,9.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223393,2024-06-22,AMAZON.CA,Miscellaneous,8.0,CAD,True,purchase,CA-BC,AMAZON.CA PRIME MEMBER
+3,202406,223430,2024-06-22,SPORTS,Miscellaneous,62.0,CAD,False,purchase,CA-BC,SPORTS ILLUSTRATED CLU
+3,202406,223411,2024-06-22,MONSOON,Miscellaneous,46.0,CAD,False,purchase,CA-BC,MONSOON CURRY RESTAURAN
+3,202406,223438,2024-06-23,EVO,Transportation,20.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202407,223504,2024-06-23,EVO,Transportation,13.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223419,2024-06-24,OPENAI,Miscellaneous,35.0,CAD,False,purchase,CA-BC,OPENAI *CHATGPT SUBSCR SAN
+3,202406,223406,2024-06-24,EVO,Transportation,16.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223394,2024-06-24,BC,Miscellaneous,44.0,CAD,False,purchase,CA-BC,BC LIQUOR #192 VANCOUVE
+3,202406,223421,2024-06-25,EVO,Transportation,122.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223404,2024-06-25,CINEPLEX,Miscellaneous,-41.0,CAD,True,refund,CA-BC,CINEPLEX ENTERTAINME
+3,202407,223500,2024-06-25,CINEPLEX,Miscellaneous,57.0,CAD,True,purchase,CA-BC,CINEPLEX ENTERTAINME
+3,202406,223420,2024-06-25,PAYMENT,Miscellaneous,-1427.0,CAD,False,bill_payment,CA-BC,PAYMENT RECEIVED - THANK
+3,202406,223425,2024-06-25,THE,Miscellaneous,-5.0,CAD,False,refund,CA-BC,THE CHOPPED LEAF
+3,202407,223514,2024-06-26,R.A.V.E.N.,Miscellaneous,10.0,CAD,False,purchase,CA-BC,R.A.V.E.N.
+3,202407,223508,2024-06-26,EVO,Transportation,9.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223429,2024-06-26,SAVE,Food & Beverages,50.0,CAD,False,purchase,CA-BC,SAVE ON FOODS #993
+3,202407,223498,2024-06-27,EVO,Transportation,54.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223405,2024-06-27,CINEPLEX,Miscellaneous,37.0,CAD,True,purchase,CA-BC,CINEPLEX ENTERTAINME
+3,202406,223401,2024-06-27,GROUSE,Miscellaneous,65.0,CAD,False,purchase,CA-BC,GROUSE MOUNTAIN 9314579 NORTH
+3,202406,223410,2024-06-28,CINEPLEX,Miscellaneous,9.0,CAD,True,purchase,CA-BC,CINEPLEX 1150
+3,202407,223513,2024-06-28,KILLER,Miscellaneous,7.0,CAD,False,purchase,CA-BC,KILLER ICE CREAM
+3,202406,123445,2024-06-28,Apple Store,Electronics,1117.0,USD,False,purchase,CA-BC,New iPad purchase
+3,202407,123420,2024-06-28,Spotify,Entertainment,11.0,USD,True,subscription,US-NY,Spotify Premium subscription
+3,202406,223397,2024-06-29,EVO,Transportation,23.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202407,223499,2024-06-30,EVO,Transportation,151.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202407,223505,2024-06-30,MINH,Miscellaneous,11.0,CAD,True,purchase,CA-BC,MINH SANDWICHES 001
+3,202407,123419,2024-06-30,Starbucks,Food & Beverages,15.0,USD,False,purchase,US-NY,Starbucks coffee purchase
+3,202406,123447,2024-06-30,Gym Membership,Entertainment,51.0,USD,True,subscription,US-CA,Monthly gym membership fee
+3,202407,223495,2024-07-01,RAIN,Miscellaneous,8.0,CAD,False,purchase,CA-BC,RAIN OR SHINE HOMEMADE
+3,202407,223497,2024-07-01,EVO,Transportation,-19.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202407,223491,2024-07-01,MOMMY'S,Miscellaneous,15.0,CAD,False,purchase,CA-BC,MOMMY'S PLANET
+3,202406,223413,2024-07-02,CINEPLEX,Miscellaneous,14.0,CAD,True,purchase,CA-BC,CINEPLEX 1149
+3,202407,223490,2024-07-02,ZUBU,Miscellaneous,16.0,CAD,False,purchase,CA-BC,ZUBU RAMEN DOWNTOWN
+3,202406,123456,2024-07-02,Electric Company,Utilities,82.0,USD,True,payment,US-CA,Monthly electric bill
+3,202406,123455,2024-07-02,Netflix,Entertainment,13.0,USD,True,subscription,GB-LND,Netflix monthly subscription
+3,202407,223488,2024-07-02,CAFFE,Miscellaneous,8.0,CAD,False,purchase,CA-BC,CAFFE MIRA 410954147
+3,202406,123446,2024-07-03,Electric Company,Utilities,102.0,USD,True,payment,GB-LND,Monthly electric bill
+3,202406,123448,2024-07-03,Target,Shopping,58.0,USD,False,purchase,GB-LND,Target Shopping purchase
+3,202407,123418,2024-07-03,Amazon,Shopping,26.0,USD,False,purchase,CA-BC,Amazon Shopping purchase
+3,202406,223415,2024-07-03,CINEPLEX,Miscellaneous,10.0,CAD,True,purchase,CA-BC,CINEPLEX ENTERTAINME
+3,202406,123449,2024-07-04,Starbucks,Food & Beverages,10.0,USD,False,purchase,US-NY,Starbucks coffee purchase
+3,202407,223510,2024-07-04,FLOURIST,Miscellaneous,21.0,CAD,False,purchase,CA-BC,FLOURIST MILLING INC.
+3,202407,223509,2024-07-04,EVO,Transportation,14.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202406,223407,2024-07-04,RAMEN,Miscellaneous,16.0,CAD,False,purchase,CA-BC,RAMEN DANBO KITSILANO 0
+3,202407,223485,2024-07-05,0836-VAN,Miscellaneous,13.0,CAD,False,purchase,CA-BC,0836-VAN RELAY W'ILL
+3,202407,123422,2024-07-05,Walmart,Groceries,59.0,USD,False,purchase,CA-BC,Walmart Groceries purchase
+3,202407,223484,2024-07-05,Vistara,Miscellaneous,15.0,CAD,False,purchase,CA-BC,Vistara PG AC 124 Connaught
+3,202407,223511,2024-07-05,KARMA,Miscellaneous,-5.0,CAD,False,refund,CA-BC,KARMA INDIAN
+3,202407,223503,2024-07-05,COMPASS,Miscellaneous,6.0,CAD,True,purchase,CA-BC,COMPASS WEB
+3,202407,223492,2024-07-06,GUU,Miscellaneous,38.0,CAD,False,purchase,CA-BC,GUU TORAMASA
+3,202407,123426,2024-07-06,Uber,Transportation,23.0,USD,False,purchase,US-NY,Uber ride
+3,202406,223399,2024-07-06,GREAT,Miscellaneous,20.0,CAD,False,purchase,CA-BC,GREAT DANE COFFEE 001
+3,202406,223409,2024-07-06,ZUBU,Miscellaneous,13.0,CAD,False,purchase,CA-BC,ZUBU RAMEN DOWNTOWN
+3,202407,223489,2024-07-07,CHIPOTLE,Miscellaneous,16.0,CAD,False,purchase,CA-BC,CHIPOTLE 4546
+3,202407,223506,2024-07-07,TST-DOVETAIL,Miscellaneous,59.0,CAD,False,purchase,CA-BC,TST-DOVETAIL
+3,202406,223403,2024-07-07,SAVE,Food & Beverages,27.0,CAD,False,purchase,CA-BC,SAVE ON FOODS #993
+3,202407,223481,2024-07-07,VIATOR,Miscellaneous,118.0,CAD,False,purchase,CA-BC,VIATOR
+3,202407,223502,2024-07-07,COMPASS,Miscellaneous,1.0,CAD,True,purchase,CA-BC,COMPASS WEB
+3,202407,123423,2024-07-08,Walmart,Groceries,66.0,USD,False,purchase,GB-LND,Walmart Groceries purchase
+3,202407,223482,2024-07-08,CINEPLEX,Miscellaneous,11.0,CAD,True,purchase,CA-BC,CINEPLEX CINECLUB
+3,202407,123421,2024-07-08,Netflix,Entertainment,13.0,USD,True,subscription,CA-BC,Netflix monthly subscription
+3,202407,223507,2024-07-09,WINTER,Miscellaneous,20.0,CAD,False,purchase,CA-BC,WINTER BEAR 001
+3,202407,123417,2024-07-09,Amazon,Shopping,48.0,USD,False,purchase,CA-BC,Amazon Shopping purchase
+3,202407,223512,2024-07-09,KARMA,Miscellaneous,64.0,CAD,False,purchase,CA-BC,KARMA INDIAN BISTRO
+3,202407,223494,2024-07-09,COMMONS,Food & Beverages,9.0,CAD,False,purchase,CA-BC,COMMONS PIZZA LTD
+3,202407,223501,2024-07-10,APPLE.COM/BILL,Utilities,2.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202407,223496,2024-07-11,EVO,Transportation,-50.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202407,223475,2024-07-11,BOOKINGCOMTICKETS,Miscellaneous,98.0,CAD,False,purchase,CA-BC,BOOKINGCOMTICKETS
+3,202407,223493,2024-07-11,HONEYBREW,Miscellaneous,21.0,CAD,False,purchase,CA-BC,HONEYBREW STRUDEL BAR
+3,202407,123425,2024-07-13,Spotify,Entertainment,10.0,USD,True,subscription,US-NY,Spotify Premium subscription
+3,202407,123424,2024-07-14,Delta Airlines,Travel,326.0,USD,False,purchase,US-CA,Flight ticket purchase
+3,202407,223480,2024-07-14,PAYMENT,Miscellaneous,-1566.0,CAD,False,bill_payment,CA-BC,PAYMENT RECEIVED - THANK
+3,202407,123428,2024-07-14,Netflix,Entertainment,16.0,USD,True,subscription,GB-LND,Netflix monthly subscription
+3,202407,223483,2024-07-15,REVENUE,Miscellaneous,77.0,CAD,True,purchase,CA-BC,REVENUE SERVICES BC VIC
+3,202407,123427,2024-07-15,Gas Station,Transportation,31.0,USD,False,purchase,US-CA,Fuel refill
+3,202407,223487,2024-07-15,CACTUS,Miscellaneous,21.0,CAD,False,purchase,CA-BC,CACTUS CLUB WEST BROAD
+3,202407,223479,2024-07-18,FIDO,Miscellaneous,50.0,CAD,True,purchase,CA-BC,FIDO MOBILE ******7459
+3,202407,223472,2024-07-18,DISNEY,Entertainment,16.0,CAD,True,subscription,CA-BC,DISNEY PLUS RECURRING
+3,202407,223474,2024-07-18,GREAT,Miscellaneous,75.0,CAD,False,purchase,CA-BC,GREAT TREK
+3,202407,223486,2024-07-19,THINKING,Miscellaneous,30.0,CAD,False,purchase,CA-BC,THINKING CANADA / COLL
+3,202407,223477,2024-07-19,VIATOR,Miscellaneous,-121.0,CAD,False,refund,CA-BC,VIATOR
+3,202407,123430,2024-07-19,Electric Company,Utilities,86.0,USD,True,payment,US-CA,Monthly electric bill
+3,202407,123432,2024-07-20,Amazon,Shopping,26.0,USD,False,refund,GB-LND,Amazon item refund
+3,202407,223470,2024-07-21,RADISSON,Miscellaneous,11.0,CAD,False,purchase,CA-BC,RADISSON BLU UDIAPUR P
+3,202407,223473,2024-07-21,OPENAI,Miscellaneous,32.0,CAD,False,purchase,CA-BC,OPENAI *CHATGPT SUBSCR SAN
+3,202407,223468,2024-07-22,AMAZON.CA,Miscellaneous,7.0,CAD,True,purchase,CA-BC,AMAZON.CA PRIME MEMBER
+3,202407,223478,2024-07-23,APPLE.COM/BILL,Utilities,4.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202408,123397,2024-07-24,Amazon,Shopping,43.0,USD,False,purchase,CA-BC,Amazon Shopping purchase
+3,202407,123431,2024-07-25,Uber,Transportation,27.0,USD,False,purchase,CA-BC,Uber ride
+3,202407,123429,2024-07-26,Delta Airlines,Travel,282.0,USD,False,purchase,US-CA,Flight ticket purchase
+3,202407,223471,2024-07-28,RADISSON,Miscellaneous,301.0,CAD,False,purchase,CA-BC,RADISSON BLU UDIAPUR P
+3,202407,123436,2024-07-28,Starbucks,Food & Beverages,8.0,USD,False,purchase,GB-LND,Starbucks coffee purchase
+3,202407,223476,2024-07-28,MEMBERSHIP,Entertainment,13.0,CAD,True,subscription,CA-BC,MEMBERSHIP FEE
+3,202408,123398,2024-07-31,Amazon,Shopping,20.0,USD,False,purchase,CA-BC,Amazon Shopping purchase
+3,202407,123433,2024-07-31,Apple Store,Electronics,986.0,USD,False,purchase,CA-BC,New iPhone purchase
+3,202408,223528,2024-08-01,APPLE.COM/BILL,Utilities,2.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202408,123399,2024-08-01,Starbucks,Food & Beverages,12.0,USD,False,purchase,US-NY,Starbucks coffee purchase
+3,202408,123401,2024-08-02,Netflix,Entertainment,14.0,USD,True,subscription,CA-BC,Netflix monthly subscription
+3,202407,123435,2024-08-04,Gym Membership,Entertainment,51.0,USD,True,subscription,US-CA,Monthly gym membership fee
+3,202407,123434,2024-08-04,Electric Company,Utilities,85.0,USD,True,payment,US-NY,Monthly electric bill
+3,202408,123405,2024-08-05,Spotify,Entertainment,10.0,USD,True,subscription,US-NY,Spotify Premium subscription
+3,202407,223469,2024-08-05,RADISSON,Miscellaneous,99.0,CAD,False,purchase,CA-BC,RADISSON BLU UDIAPUR P
+3,202408,123404,2024-08-06,Delta Airlines,Travel,345.0,USD,False,purchase,US-CA,Flight ticket purchase
+3,202408,123407,2024-08-08,Gas Station,Transportation,32.0,USD,False,purchase,US-CA,Fuel refill
+3,202408,123400,2024-08-08,Spotify,Entertainment,11.0,USD,True,subscription,US-NY,Spotify Premium subscription
+3,202408,123411,2024-08-10,Uber,Transportation,24.0,USD,False,purchase,CA-BC,Uber ride
+3,202408,123408,2024-08-11,Netflix,Entertainment,13.0,USD,True,subscription,GB-LND,Netflix monthly subscription
+3,202408,223524,2024-08-11,FIDO,Miscellaneous,49.0,CAD,True,purchase,CA-BC,FIDO MOBILE ******7459
+3,202408,223520,2024-08-12,PAYMENT,Miscellaneous,-820.0,CAD,False,bill_payment,CA-BC,PAYMENT RECEIVED - THANK
+3,202408,223523,2024-08-12,APPLE.COM/BILL,Utilities,4.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202408,123403,2024-08-13,Walmart,Groceries,73.0,USD,False,purchase,GB-LND,Walmart Groceries purchase
+3,202408,123406,2024-08-14,Uber,Transportation,22.0,USD,False,purchase,US-NY,Uber ride
+3,202408,223526,2024-08-16,CINEPLEX,Miscellaneous,12.0,CAD,True,purchase,CA-BC,CINEPLEX CINECLUB
+3,202408,223527,2024-08-16,REVENUE,Miscellaneous,79.0,CAD,True,purchase,CA-BC,REVENUE SERVICES BC VIC
+3,202408,123413,2024-08-17,Starbucks,Food & Beverages,13.0,USD,False,purchase,US-NY,Starbucks coffee purchase
+3,202408,123402,2024-08-17,Walmart,Groceries,63.0,USD,False,purchase,CA-BC,Walmart Groceries purchase
+3,202408,223519,2024-08-18,OPENAI,Miscellaneous,34.0,CAD,False,purchase,CA-BC,OPENAI *CHATGPT SUBSCR SAN
+3,202408,223516,2024-08-20,PINELABS*UNIQLO,Miscellaneous,44.0,CAD,False,purchase,CA-BC,PINELABS*UNIQLO INDIA C NEW
+3,202408,223515,2024-08-20,BOUNCE,Miscellaneous,34.0,CAD,False,purchase,CA-BC,BOUNCE - USEBOUNCE.COM
+3,202408,123409,2024-08-21,Delta Airlines,Travel,265.0,USD,False,purchase,US-CA,Flight ticket purchase
+3,202408,123416,2024-08-21,Starbucks,Food & Beverages,10.0,USD,False,purchase,GB-LND,Starbucks coffee purchase
+3,202408,123415,2024-08-21,Gym Membership,Entertainment,50.0,USD,True,subscription,US-CA,Monthly gym membership fee
+3,202409,223572,2024-08-23,UBER,Miscellaneous,35.0,CAD,False,purchase,CA-BC,nan
+3,202408,223525,2024-08-23,PayU*www.dotpe.in,Miscellaneous,47.0,CAD,False,purchase,CA-BC,PayU*www.dotpe.in
+3,202409,223568,2024-08-25,JJ,Miscellaneous,14.0,CAD,False,purchase,CA-BC,JJ BEAN COFFEE ROASTERS
+3,202408,123412,2024-08-25,Apple Store,Electronics,975.0,USD,False,purchase,CA-BC,New iPhone purchase
+3,202409,223571,2024-08-26,UBER,Miscellaneous,24.0,CAD,False,purchase,CA-BC,nan
+3,202408,223521,2024-08-26,INTEREST,Miscellaneous,24.0,CAD,False,purchase,CA-BC,nan
+3,202408,123414,2024-08-26,Electric Company,Utilities,97.0,USD,True,payment,GB-LND,Monthly electric bill
+3,202409,223567,2024-08-27,GEETA'S,Miscellaneous,8.0,CAD,False,purchase,CA-BC,GEETA'S BEAUTY SALON &
+3,202409,123377,2024-08-28,Amazon,Shopping,42.0,USD,False,purchase,CA-BC,Amazon Shopping purchase
+3,202409,223574,2024-08-28,CLIPPER,Miscellaneous,8.0,CAD,False,purchase,CA-BC,CLIPPER SYSTEMS MOBILE
+3,202408,123410,2024-08-28,Electric Company,Utilities,95.0,USD,True,payment,US-CA,Monthly electric bill
+3,202409,223561,2024-08-29,SAFEWAY,Miscellaneous,2.0,CAD,False,purchase,CA-BC,SAFEWAY #4901 VANCOUVER
+3,202408,223522,2024-08-29,MEMBERSHIP,Entertainment,15.0,CAD,True,subscription,CA-BC,MEMBERSHIP FEE
+3,202409,123380,2024-08-30,Spotify,Entertainment,10.0,USD,True,subscription,US-NY,Spotify Premium subscription
+3,202408,223518,2024-09-01,DISNEY,Entertainment,19.0,CAD,True,subscription,CA-BC,DISNEY PLUS RECURRING
+3,202409,223576,2024-09-01,CLIPPER,Miscellaneous,19.0,CAD,False,purchase,CA-BC,CLIPPER SYSTEMS MOBILE
+3,202409,123382,2024-09-02,Walmart,Groceries,62.0,USD,False,purchase,CA-BC,Walmart Groceries purchase
+3,202409,223562,2024-09-02,EVO,Transportation,45.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202409,123381,2024-09-03,Netflix,Entertainment,14.0,USD,True,subscription,CA-BC,Netflix monthly subscription
+3,202409,123378,2024-09-03,Amazon,Shopping,21.0,USD,False,purchase,CA-BC,Amazon Shopping purchase
+3,202409,223573,2024-09-03,BEN,Miscellaneous,19.0,CAD,False,purchase,CA-BC,BEN & JERRY'S FISHERMAN San
+3,202409,223564,2024-09-03,APPLE.COM/BILL,Utilities,2.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202409,223563,2024-09-04,AMZN,Miscellaneous,46.0,CAD,False,purchase,CA-BC,AMZN MKTP CA*ZT0UY8X02
+3,202408,223517,2024-09-04,AMAZON.CA,Miscellaneous,7.0,CAD,True,purchase,CA-BC,AMAZON.CA PRIME MEMBER
+3,202409,223559,2024-09-04,AMZN,Miscellaneous,38.0,CAD,False,purchase,CA-BC,AMZN MKTP CA*ZT9US8UW1
+3,202409,223575,2024-09-04,CLIPPER,Miscellaneous,14.0,CAD,False,purchase,CA-BC,CLIPPER SYSTEMS MOBILE
+3,202409,223565,2024-09-04,COMPASS,Miscellaneous,1.0,CAD,True,purchase,CA-BC,COMPASS WEB BURNABY
+3,202409,223558,2024-09-05,TREES,Miscellaneous,13.0,CAD,False,purchase,CA-BC,TREES ORGANIC COFFEE 00
+3,202409,223557,2024-09-05,LS,Miscellaneous,23.0,CAD,False,purchase,CA-BC,LS KINTON RAMEN UBC
+3,202409,123379,2024-09-05,Starbucks,Food & Beverages,11.0,USD,False,purchase,US-NY,Starbucks coffee purchase
+3,202409,223560,2024-09-07,CINEPLEX,Miscellaneous,29.0,CAD,True,purchase,CA-BC,CINEPLEX ENTERTAINME
+3,202409,123385,2024-09-08,Spotify,Entertainment,11.0,USD,True,subscription,US-NY,Spotify Premium subscription
+3,202409,223545,2024-09-08,APPLE.COM/BILL,Utilities,4.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202409,223548,2024-09-08,SHOWPASS*,Miscellaneous,35.0,CAD,False,purchase,CA-BC,SHOWPASS* TAMASHA-SQ
+3,202409,223570,2024-09-09,Fairfield,Miscellaneous,6.0,CAD,False,purchase,CA-BC,Fairfield Inn SFO Millb
+3,202409,123387,2024-09-09,Gas Station,Transportation,34.0,USD,False,purchase,US-CA,Fuel refill
+3,202409,223553,2024-09-10,EVO,Transportation,3.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202409,223566,2024-09-10,COMPASS,Miscellaneous,5.0,CAD,True,purchase,CA-BC,COMPASS WEB BURNABY
+3,202409,223551,2024-09-10,REVENUE,Miscellaneous,71.0,CAD,True,purchase,CA-BC,REVENUE SERVICES BC VIC
+3,202409,123386,2024-09-10,Uber,Transportation,23.0,USD,False,purchase,US-NY,Uber ride
+3,202409,223569,2024-09-11,SAFEWAY,Miscellaneous,48.0,CAD,False,purchase,CA-BC,SAFEWAY #4901 VANCOUVER
+3,202409,123390,2024-09-11,Electric Company,Utilities,95.0,USD,True,payment,US-CA,Monthly electric bill
+3,202409,123383,2024-09-12,Walmart,Groceries,76.0,USD,False,purchase,GB-LND,Walmart Groceries purchase
+3,202409,223549,2024-09-14,AMZN,Miscellaneous,17.0,CAD,False,purchase,CA-BC,AMZN MKTP CA*4T0GG22Q3
+3,202409,223547,2024-09-14,SHOWPASS*,Miscellaneous,37.0,CAD,False,purchase,CA-BC,SHOWPASS* TAMASHA-S2
+3,202409,123392,2024-09-15,Amazon,Shopping,30.0,USD,False,refund,GB-LND,Amazon item refund
+3,202409,223552,2024-09-15,CINEPLEX,Miscellaneous,11.0,CAD,True,purchase,CA-BC,CINEPLEX CINECLUB
+3,202409,123384,2024-09-15,Delta Airlines,Travel,322.0,USD,False,purchase,US-CA,Flight ticket purchase
+3,202409,223550,2024-09-15,LINKEDIN,Miscellaneous,27.0,CAD,False,purchase,CA-BC,LINKEDIN PRE P185347364 MOUNTAIN
+3,202409,223534,2024-09-17,BURB,Miscellaneous,26.0,CAD,False,purchase,CA-BC,BURB CANNABIS
+3,202409,223541,2024-09-17,SHOWPASS*,Miscellaneous,37.0,CAD,False,purchase,CA-BC,SHOWPASS* TAMASHA-NK
+3,202409,223539,2024-09-17,EVO,Transportation,32.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202409,223544,2024-09-18,THE,Miscellaneous,55.0,CAD,False,purchase,CA-BC,THE NEW AMSTERDAM 40007
+3,202409,123394,2024-09-19,Electric Company,Utilities,82.0,USD,True,payment,US-NY,Monthly electric bill
+3,202409,223556,2024-09-19,EVO,Transportation,20.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202409,223538,2024-09-19,BREWHALL,Miscellaneous,32.0,CAD,False,purchase,CA-BC,BREWHALL
+3,202409,223542,2024-09-20,INTEREST,Miscellaneous,12.0,CAD,False,purchase,CA-BC,nan
+3,202409,123388,2024-09-20,Netflix,Entertainment,13.0,USD,True,subscription,GB-LND,Netflix monthly subscription
+3,202409,223536,2024-09-20,JJ,Miscellaneous,7.0,CAD,False,purchase,CA-BC,JJ BEAN COFFEE ROASTERS
+3,202409,223540,2024-09-21,KIN,Miscellaneous,34.0,CAD,False,purchase,CA-BC,KIN KAO SONG
+3,202409,223555,2024-09-21,AMAZON.CA*0E8WS1853,Miscellaneous,21.0,CAD,False,purchase,CA-BC,AMAZON.CA*0E8WS1853
+3,202409,123396,2024-09-22,Starbucks,Food & Beverages,9.0,USD,False,purchase,GB-LND,Starbucks coffee purchase
+3,202410,223622,2024-09-23,APPLE.COM/BILL,Utilities,2.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202410,223623,2024-09-23,PAYMENT,Miscellaneous,-906.0,CAD,False,bill_payment,CA-BC,PAYMENT RECEIVED - THANK
+3,202409,123389,2024-09-23,Delta Airlines,Travel,241.0,USD,False,purchase,US-CA,Flight ticket purchase
+3,202409,223554,2024-09-24,EVO,Transportation,22.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202409,223532,2024-09-24,#NAME?,Miscellaneous,12.0,CAD,False,purchase,CA-BC,=BEYONDBREADLTD. 001
+3,202409,223546,2024-09-27,FIDO,Miscellaneous,77.0,CAD,True,purchase,CA-BC,FIDO MOBILE ******7459
+3,202410,223619,2024-09-28,BMO,Miscellaneous,181.0,CAD,False,purchase,CA-BC,BMO VANCOUVER MARATHON
+3,202409,123391,2024-09-28,Uber,Transportation,22.0,USD,False,purchase,CA-BC,Uber ride
+3,202409,223543,2024-09-29,MEMBERSHIP,Entertainment,14.0,CAD,True,subscription,CA-BC,MEMBERSHIP FEE
+3,202409,223533,2024-09-29,PARATHA,Miscellaneous,22.0,CAD,False,purchase,CA-BC,PARATHA 2 PASTA 001
+3,202409,123393,2024-09-29,Apple Store,Electronics,958.0,USD,False,purchase,CA-BC,New iPhone purchase
+3,202409,223531,2024-09-29,CHIPOTLE,Miscellaneous,17.0,CAD,False,purchase,CA-BC,CHIPOTLE 5200
+3,202410,123363,2024-09-30,Starbucks,Food & Beverages,69.0,USD,False,purchase,CA-BC,Starbucks Food & Beverages purchase
+3,202410,223621,2024-09-30,CAFE,Miscellaneous,28.0,CAD,False,purchase,CA-BC,CAFE PORTRAIT
+3,202409,123395,2024-10-01,Gym Membership,Entertainment,51.0,USD,True,subscription,US-CA,Monthly gym membership fee
+3,202410,123361,2024-10-01,Starbucks,Food & Beverages,64.0,USD,False,purchase,US-NY,Starbucks Food & Beverages purchase
+3,202409,223537,2024-10-02,OPENAI,Miscellaneous,34.0,CAD,False,purchase,CA-BC,OPENAI *CHATGPT SUBSCR SAN
+3,202410,223608,2024-10-03,EVO,Transportation,21.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202409,223535,2024-10-03,2025,Miscellaneous,197.0,CAD,False,purchase,CA-BC,2025 FIRST HALF
+3,202410,223607,2024-10-04,LS,Miscellaneous,17.0,CAD,False,purchase,CA-BC,LS KINTON RAMEN UBC
+3,202410,223618,2024-10-05,EVO,Transportation,29.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202410,223610,2024-10-05,UBER,Miscellaneous,14.0,CAD,False,purchase,CA-BC,UBER TRIP
+3,202410,223620,2024-10-05,KILLER,Miscellaneous,9.0,CAD,False,purchase,CA-BC,KILLER ICE CREAM
+3,202410,223613,2024-10-06,CINEPLEX,Miscellaneous,30.0,CAD,True,purchase,CA-BC,CINEPLEX ENTERTAINME
+3,202410,123358,2024-10-07,Spotify,Entertainment,11.0,USD,True,subscription,GB-LND,Spotify Premium subscription
+3,202410,223617,2024-10-07,SAVE,Food & Beverages,7.0,CAD,False,purchase,CA-BC,SAVE ON FOODS #993
+3,202409,223529,2024-10-07,AMAZON.CA,Miscellaneous,7.0,CAD,True,purchase,CA-BC,AMAZON.CA PRIME MEMBER
+3,202409,223530,2024-10-07,GREAT,Miscellaneous,21.0,CAD,False,purchase,CA-BC,GREAT DANE COFFEE 001
+3,202410,223603,2024-10-07,CINEPLEX,Miscellaneous,72.0,CAD,True,purchase,CA-BC,CINEPLEX ENTERTAINME
+3,202410,223601,2024-10-08,TAYLIGHT,Food & Beverages,11.0,CAD,False,purchase,CA-BC,TAYLIGHT LOCAL CRAFT B
+3,202410,223602,2024-10-08,APPLE.COM/BILL,Utilities,34.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202410,123359,2024-10-08,Gas Station,Transportation,37.0,USD,False,purchase,US-NY,Gas Station Transportation purchase
+3,202410,223624,2024-10-08,SAVE,Food & Beverages,38.0,CAD,False,purchase,CA-BC,SAVE ON FOODS #993
+3,202410,123362,2024-10-09,Amazon,Shopping,33.0,USD,False,purchase,US-CA,Amazon Shopping purchase
+3,202410,123357,2024-10-09,Amazon,Shopping,11.0,USD,False,purchase,CA-BC,Amazon Shopping purchase
+3,202410,223597,2024-10-10,CINEPLEX,Entertainment,19.0,CAD,True,purchase,CA-BC,CINEPLEX 1149
+3,202410,223616,2024-10-11,SAVE,Food & Beverages,6.0,CAD,False,purchase,CA-BC,SAVE ON FOODS #993
+3,202410,123369,2024-10-11,Walmart,Groceries,186.0,USD,False,purchase,US-CA,Walmart Groceries purchase
+3,202410,223593,2024-10-11,EVO,Transportation,13.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202410,123367,2024-10-11,Walmart,Groceries,170.0,USD,False,purchase,GB-LND,Walmart Groceries purchase
+3,202410,223615,2024-10-12,COMPASS,Miscellaneous,5.0,CAD,True,purchase,CA-BC,COMPASS WEB BURNABY
+3,202410,223590,2024-10-13,PNE,Food & Beverages,24.0,CAD,False,purchase,CA-BC,PNE FOOD & BEVERAGE
+3,202410,123365,2024-10-13,Starbucks,Food & Beverages,84.0,USD,False,purchase,GB-LND,Starbucks Food & Beverages purchase
+3,202410,223599,2024-10-13,FIDO,Utilities,48.0,CAD,True,purchase,CA-BC,FIDO MOBILE ******7459
+3,202410,223600,2024-10-13,JAMJAR,Food & Beverages,17.0,CAD,False,purchase,CA-BC,JAMJAR CANTEEN INC.
+3,202410,123360,2024-10-14,Amazon,Shopping,20.0,USD,False,purchase,GB-LND,Amazon Shopping purchase
+3,202410,123364,2024-10-14,Delta Airlines,Travel,103.0,USD,False,purchase,US-CA,Delta Airlines Travel purchase
+3,202410,223604,2024-10-15,LINKEDINPRE,Miscellaneous,29.0,CAD,True,purchase,CA-BC,LINKEDINPRE *35240094 MOUNTAIN
+3,202410,223586,2024-10-15,C7FBF258-290B-4A9A-A4C7,Miscellaneous,16.0,CAD,False,purchase,CA-BC,C7FBF258-290B-4A9A-A4C7
+3,202410,123373,2024-10-15,Netflix,Entertainment,14.0,USD,True,subscription,GB-LND,Netflix Subscription
+3,202410,223589,2024-10-16,OPENAI,Miscellaneous,34.0,CAD,False,purchase,CA-BC,OPENAI *CHATGPT SUBSCR SAN
+3,202410,223595,2024-10-16,GOLDEN,Food & Beverages,4.0,CAD,False,purchase,CA-BC,GOLDEN CRUST
+3,202410,223611,2024-10-16,UBER,Miscellaneous,25.0,CAD,False,purchase,CA-BC,UBER TRIP
+3,202410,223583,2024-10-17,BURGOO,Food & Beverages,27.0,CAD,False,purchase,CA-BC,BURGOO POINT GREY 41172
+3,202410,223588,2024-10-18,EVO,Transportation,23.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202410,123371,2024-10-18,Walmart,Groceries,190.0,USD,False,purchase,US-NY,Walmart Groceries purchase
+3,202410,123372,2024-10-18,Spotify,Entertainment,11.0,USD,True,subscription,US-NY,Spotify Premium subscription
+3,202410,223605,2024-10-19,CINEPLEX,Miscellaneous,11.0,CAD,True,purchase,CA-BC,CINEPLEX CINECLUB
+3,202410,223596,2024-10-19,APPLE.COM/BILL,Utilities,15.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202410,123366,2024-10-19,Delta Airlines,Travel,124.0,USD,False,purchase,US-NY,Delta Airlines Travel purchase
+3,202410,223612,2024-10-19,BC,Miscellaneous,62.0,CAD,False,purchase,CA-BC,BC LIQUOR #192 VANCOUVE
+3,202410,223579,2024-10-20,AMAZON.CA,Shopping,7.0,CAD,True,purchase,CA-BC,AMAZON.CA PRIME MEMBER
+3,202410,223609,2024-10-20,THE,Miscellaneous,35.0,CAD,False,purchase,CA-BC,THE HOLLYWOOD THEATRE
+3,202410,223614,2024-10-20,COMPASS,Miscellaneous,1.0,CAD,True,purchase,CA-BC,COMPASS WEB BURNABY
+3,202410,223606,2024-10-21,REVENUE,Miscellaneous,68.0,CAD,True,purchase,CA-BC,REVENUE SERVICES BC VIC
+3,202410,223598,2024-10-21,CINEPLEX,Entertainment,49.0,CAD,True,purchase,CA-BC,CINEPLEX ENTERTAINME
+3,202410,223594,2024-10-21,FRESH,Food & Beverages,10.0,CAD,False,purchase,CA-BC,FRESH N FUNKY CATERING
+3,202410,123368,2024-10-22,Delta Airlines,Travel,119.0,USD,False,purchase,CA-BC,Delta Airlines Travel purchase
+3,202410,223584,2024-10-22,EVO,Transportation,9.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202410,223577,2024-10-23,BURB,Food & Beverages,29.0,CAD,False,purchase,CA-BC,BURB CANNABIS
+3,202410,123375,2024-10-25,Spotify,Entertainment,11.0,USD,True,subscription,CA-BC,Spotify Premium subscription
+3,202410,223592,2024-10-26,MEMBERSHIP,Entertainment,13.0,CAD,True,subscription,CA-BC,MEMBERSHIP FEE
+3,202411,223650,2024-10-26,EVO,Transportation,8.0,CAD,True,purchase,CA-BC,=BLENZINWESBROOKVILL 00
+3,202410,223578,2024-10-26,DOLLAR,Shopping,46.0,CAD,False,purchase,CA-BC,"DOLLAR ""N"" PLUS 001"
+3,202411,223654,2024-10-26,EVO,Transportation,9.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202411,223645,2024-10-26,AMZN,Shopping,45.0,CAD,False,purchase,CA-BC,AMZN MKTP CA*J91207RF3
+3,202410,223591,2024-10-27,INTEREST,Miscellaneous,1.0,CAD,False,purchase,CA-BC,nan
+3,202410,223582,2024-10-28,BURB,Food & Beverages,21.0,CAD,False,purchase,CA-BC,BURB CANNABIS
+3,202410,123374,2024-10-28,Netflix,Entertainment,15.0,USD,True,subscription,US-CA,Netflix Subscription
+3,202410,223580,2024-10-28,APPLE.COM/BILL,Utilities,104.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202410,123376,2024-10-28,Gas Station,Transportation,38.0,USD,False,purchase,US-CA,Gas Station Transportation purchase
+3,202410,223581,2024-10-29,SAFEWAY,Groceries,24.0,CAD,False,purchase,CA-BC,SAFEWAY #4901 VANCOUVER
+3,202411,223647,2024-10-29,PAYMENT,Miscellaneous,-1321.0,CAD,False,bill_payment,CA-BC,PAYMENT RECEIVED - THANK
+3,202410,223587,2024-10-30,EVO,Transportation,17.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202410,123370,2024-10-30,Netflix,Entertainment,15.0,USD,True,subscription,CA-BC,Netflix Subscription
+3,202410,223585,2024-10-31,BODY,Food & Beverages,13.0,CAD,False,purchase,CA-BC,BODY ENERGY CLUB
+3,202411,223642,2024-10-31,EVO,Transportation,16.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202411,223652,2024-11-01,SPORTS,Food & Beverages,23.0,CAD,False,purchase,CA-BC,SPORTS ILLUSTRATED CLU
+3,202411,223636,2024-11-02,TST-HERO'S,Food & Beverages,9.0,CAD,False,purchase,CA-BC,TST-HERO'S WELCOME
+3,202411,223653,2024-11-04,UBER,Transportation,7.0,CAD,False,purchase,CA-BC,UBER TRIP
+3,202411,223651,2024-11-04,APPLE.COM/BILL,Utilities,2.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202411,223648,2024-11-05,RAY,Shopping,16.0,CAD,False,purchase,CA-BC,RAY RICKBURN VANCOUVER
+3,202411,223634,2024-11-05,EVO,Transportation,13.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202411,223643,2024-11-05,EVO,Transportation,16.0,CAD,True,purchase,CA-BC,EVO CAR SHARE
+3,202411,223644,2024-11-05,AMZN,Shopping,24.0,CAD,False,purchase,CA-BC,AMZN MKTP CA*P82BJ1YA3
+3,202411,223649,2024-11-06,RAY,Shopping,19.0,CAD,False,purchase,CA-BC,RAY RICKBURN VANCOUVER
+3,202411,223635,2024-11-07,FABLE,Food & Beverages,27.0,CAD,False,purchase,CA-BC,FABLE KITCHENS VANCOUVE
+3,202411,223646,2024-11-07,LULULEMON,Shopping,110.0,CAD,False,purchase,CA-BC,LULULEMON #00120
+3,202411,223637,2024-11-07,TST-HERO'S,Food & Beverages,29.0,CAD,False,purchase,CA-BC,TST-HERO'S WELCOME
+3,202411,223638,2024-11-08,TST-HERO'S,Food & Beverages,31.0,CAD,False,purchase,CA-BC,TST-HERO'S WELCOME
+3,202411,223625,2024-11-10,MEMBERSHIP,Entertainment,12.0,CAD,True,subscription,CA-BC,MEMBERSHIP FEE
+3,202411,223627,2024-11-13,FIDO,Shopping,52.0,CAD,True,purchase,CA-BC,FIDO MOBILE ******7459
+3,202411,223629,2024-11-15,CINEPLEX,Entertainment,11.0,CAD,True,purchase,CA-BC,CINEPLEX CINECLUB
+3,202411,223630,2024-11-15,RAIN,Food & Beverages,8.0,CAD,False,purchase,CA-BC,RAIN OR SHINE HOMEMADE
+3,202411,223639,2024-11-16,UBER,Transportation,16.0,CAD,False,purchase,CA-BC,UBER TRIP
+3,202411,223633,2024-11-16,SAVE,Groceries,18.0,CAD,False,purchase,CA-BC,SAVE ON FOODS #993
+3,202411,223641,2024-11-17,TST-HERO'S,Food & Beverages,8.0,CAD,False,purchase,CA-BC,TST-HERO'S WELCOME
+3,202411,223640,2024-11-18,FRESHSLICE,Food & Beverages,4.0,CAD,False,purchase,CA-BC,FRESHSLICE PIZZA 413111
+3,202411,223631,2024-11-18,REVENUE,Health & Wellness,82.0,CAD,True,purchase,CA-BC,REVENUE SERVICES BC VIC
+3,202411,223632,2024-11-22,RAMEN,Food & Beverages,18.0,CAD,False,purchase,CA-BC,RAMEN DANBO KERRISDALE
+3,202411,223626,2024-11-24,APPLE.COM/BILL,Utilities,4.0,CAD,True,payment,CA-BC,APPLE.COM/BILL
+3,202411,223628,2024-11-25,LINKEDINPRE,Shopping,54.0,CAD,True,purchase,CA-BC,LINKEDINPRE *85653614 MOUNTAIN
